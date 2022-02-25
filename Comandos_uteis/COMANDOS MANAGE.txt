@@ -1,0 +1,9 @@
+COMANDOS MANAGE.PY 
+(manage.py help)
+
+	1 - para iniciar o servidor "python manage.py runserver"
+	2 - para iniciar um app "python manage.py startapp"
+	3 - adicionar arquivos staticos "python manage.py collectstatic"
+	4 - prepara o projeto para migrar informações para o banco de dados "python manage.py makemigrations"
+	5 - migra os dados dos modelos para o banco de dados "python manage.py migrate" 
+	6 - cria usuario admin "python manage.py createsuperuser"

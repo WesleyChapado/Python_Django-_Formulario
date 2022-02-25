@@ -1,0 +1,6 @@
+INCLUIR POSTGRESQL
+(apos a instalação do postgresql e com venv ligado)
+
+	1 - no terminal do pycharm digite "pip install psycopg2"
+	2 - no terminal do pycharm digite "pip install psycopg2-binary"
+	3 - 

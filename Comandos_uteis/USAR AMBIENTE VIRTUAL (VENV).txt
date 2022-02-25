@@ -1,0 +1,7 @@
+USAR AMBIENTE VIRTUAL (VENV)
+
+	1 - com python3 instalado abra o cmd
+	2 - digite o caminho para a pasta do seu novo projeto
+	3 - digite python -m venv ./venv (uma pasta com o nome venv sera criada)
+	4 - pelo pycharm abra sua pasta de projeto criada na etapa 2 
+	5 - no terminal do pycharm digite "venv\Scripts\activate" (o simbolo de venv em verde deve aparecer)

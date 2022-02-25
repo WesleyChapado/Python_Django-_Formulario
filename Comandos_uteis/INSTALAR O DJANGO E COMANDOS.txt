@@ -1,0 +1,8 @@
+INSTALAR O DJANGO E COMANDOS
+(depois de ter ativado o VENV)
+
+	1 - no terminal do pycharm com o venv já instalado digite "pip install django"
+	2 - caso queira ver se realmente foi instalado use o comando "pip freeze"
+
+COMANDOS DJANGO (django-admin help)
+	1 - para iniciar um novo projeto "django-admin startproject (nome da pasta para seu projeto) ."
